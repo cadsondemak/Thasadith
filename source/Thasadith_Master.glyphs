@@ -1,5 +1,8 @@
 {
 .appVersion = "1075";
+DisplayStrings = (
+"\U00C7"
+);
 copyright = "Copyright © 2018 by Cadson Demak Co.,Ltd.. All rights reserved.";
 customParameters = (
 {
@@ -27,7 +30,7 @@ value = (
 date = "2018-03-12 19:01:02 +0000";
 designer = "Cadson Demak Co.,Ltd.";
 designerURL = www.cadsondemak.com;
-familyName = Srisakdi;
+familyName = Thasadith;
 featurePrefixes = (
 {
 automatic = 1;
