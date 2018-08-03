@@ -86,14 +86,6 @@
   background-color: #3F653F;
 }
 
-#block-4-text {
-  font-family: 'ThasadithThin';
-  font-size: 18pt;
-  line-height: 120%;
-  text-align: right;
-  padding-top: 380px;
-}
-
 #block-5 {
   color: #4B024B;
   background-color: #FFF;
@@ -107,62 +99,12 @@
   letter-spacing: 0px;
 }
 
-
-#block-5-text_sub {
-  font-family: 'ThasadithLight';
-  font-size: 12pt;
-  line-height: 100%;
-  text-align: left;
-  padding-top: 20px;
-}
-
-
-#block-5-text0 {
-  font-family: 'ThasadithThin';
-  font-size: 110pt;
-  line-height: 100%;
-  text-align: left;
-  padding-top: 80px;
-}
-
-#block-5-text1 {
-  font-family: 'ThasadithExtraLight';
-  font-size: 110pt;
-  line-height: 100%;
-  text-align: left;
-  padding-top: 50px;
-}
-
-#block-5-text2 {
-  font-family: 'ThasadithLight';
-  font-size: 110pt;
-  line-height: 100%;
-  text-align: left;
-  padding-top: 55px;
-}
-
 #block-5-text3 {
   font-family: 'ThasadithRegular';
   font-size: 110pt;
   line-height: 100%;
   text-align: left;
   padding-top: 60px;
-}
-
-#block-5-text4 {
-  font-family: 'ThasadithMedium';
-  font-size: 110pt;
-  line-height: 100%;
-  text-align: left;
-  padding-top: 65px;
-}
-
-#block-5-text5 {
-  font-family: 'ThasadithSemiBold';
-  font-size: 110pt;
-  line-height: 100%;
-  text-align: left;
-  padding-top: 70px;
 }
 
 #block-5-text6 {
@@ -173,20 +115,12 @@
   padding-top: 80px;
 }
 
-#block-5-text7 {
-  font-family: 'ThasadithExtraBold';
-  font-size: 110pt;
+#block-5-text_sub {
+  font-family: 'ThasadithRegular';
+  font-size: 12pt;
   line-height: 100%;
   text-align: left;
-  padding-top: 80px;
-}
-
-#block-5-text8 {
-  font-family: 'ThasadithBlack';
-  font-size: 110pt;
-  line-height: 100%;
-  text-align: left;
-  padding-top: 80px;
+  padding-top: 20px;
 }
 
 #block-5-i {
@@ -196,7 +130,7 @@
 }
 
 #block-5-i-Title {
-  font-family: 'Thasadith';
+  font-family: 'ThasadithRegular';
   font-size: 16pt;
   text-align: left;
   letter-spacing: 0px;
@@ -204,36 +138,11 @@
 
 
 #block-5-i-text_sub {
-  font-family: 'ThasadithLight';
+  font-family: 'ThasadithRegular';
   font-size: 12pt;
   line-height: 100%;
   text-align: left;
   padding-top: 20px;
-}
-
-
-#block-5-i-text0 {
-  font-family: 'ThasadithThinItalic';
-  font-size: 110pt;
-  line-height: 100%;
-  text-align: left;
-  padding-top: 80px;
-}
-
-#block-5-i-text1 {
-  font-family: 'ThasadithExtraLightItalic';
-  font-size: 110pt;
-  line-height: 100%;
-  text-align: left;
-  padding-top: 50px;
-}
-
-#block-5-i-text2 {
-  font-family: 'ThasadithLightItalic';
-  font-size: 110pt;
-  line-height: 100%;
-  text-align: left;
-  padding-top: 55px;
 }
 
 #block-5-i-text3 {
@@ -244,40 +153,8 @@
   padding-top: 60px;
 }
 
-#block-5-i-text4 {
-  font-family: 'ThasadithMediumItalic';
-  font-size: 110pt;
-  line-height: 100%;
-  text-align: left;
-  padding-top: 65px;
-}
-
-#block-5-i-text5 {
-  font-family: 'ThasadithSemiBoldItalic';
-  font-size: 110pt;
-  line-height: 100%;
-  text-align: left;
-  padding-top: 70px;
-}
-
 #block-5-i-text6 {
   font-family: 'ThasadithBoldItalic';
-  font-size: 110pt;
-  line-height: 100%;
-  text-align: left;
-  padding-top: 80px;
-}
-
-#block-5-i-text7 {
-  font-family: 'ThasadithExtraBoldItalic';
-  font-size: 110pt;
-  line-height: 100%;
-  text-align: left;
-  padding-top: 80px;
-}
-
-#block-5-i-text8 {
-  font-family: 'ThasadithBlackItalic';
   font-size: 110pt;
   line-height: 100%;
   text-align: left;
@@ -329,22 +206,6 @@
   background-color: #3F653F;
 }
 
-#block-7-3-text1 {
-  font-family: 'ThasadithThinItalic';
-  font-size: 13pt;
-  line-height: 150%;
-  text-align: left;
-  padding-top: 500px;
-}
-
-#block-7-3-text2 {
-  font-family: 'ThasadithExtraBoldItalic';
-  font-size: 13pt;
-  line-height: 150%;
-  text-align: left;
-  padding-top: 500px;
-}
-
 #block-Title {
   color: #999999;
   font-family: 'ThasadithLight';
@@ -363,7 +224,7 @@
 
 #block-Title-2 {
   color: #999999;
-  font-family: 'ThasadithLight';
+  font-family: 'ThasadithRegular';
   font-size: 12pt;
   text-align: left;
   letter-spacing: 0px;
@@ -371,7 +232,7 @@
 
 ul.nav > li > a {
   color: #999999;
-  font-family: 'ThasadithLight';
+  font-family: 'ThasadithRegular';
   font-size: 12pt;
   text-align: center;
   letter-spacing: 0px;
@@ -380,7 +241,7 @@ ul.nav > li > a {
 ul.nav > li.active > a {
   color: #FFF;
   background-color: #4B024B;
-  font-family: 'ThasadithSemiBold';
+  font-family: 'ThasadithBold';
   font-size: 12pt;
   text-align: center;
   letter-spacing: 0px;
@@ -394,84 +255,6 @@ ul.nav > li.active > a {
   text-align: left;
 }
 
-#block-9-Title {
-  font-family: 'ThasadithLight';
-  font-size: 12pt;
-  text-align: left;
-  letter-spacing: 0px;
-}
-
-#block-9-Char {
-  font-family: 'ThasadithThin';
-  font-size: 22pt;
-  line-height: 120%;
-  text-align: left;
-  letter-spacing: 3px;
-  padding-bottom: 15px;
-}
-
-#block-9-Num {
-  font-family: 'ThasadithThin';
-  font-size: 22pt;
-  text-align: left;
-  line-height: 120%;
-  letter-spacing: 3px;
-  padding-bottom: 15px;
-}
-
-#block-9-Vowel {
-  font-family: 'ThasadithThin';
-  line-height: 150%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-9-Sp-Char {
-  font-family: 'ThasadithThin';
-  line-height: 150%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-9-Symbol {
-  font-family: 'ThasadithThin';
-  line-height: 130%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-9-Ac-Char {
-  font-family: 'ThasadithThin';
-  line-height: 130%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-9-Text1 {
-  font-family: 'ThasadithThin';
-  line-height: 125%;
-  font-size: 12pt;
-  text-align: left;
-}
-
-#block-9-Text2 {
-  font-family: 'ThasadithThin';
-  line-height: 125%;
-  font-size: 18pt;
-  text-align: left;
-}
-
-#block-9-Text3 {
-  font-family: 'ThasadithThin';
-  line-height: 150%;
-  font-size: 24pt;
-  text-align: left;
-}
-
 #block-9-i {
   color: #4B024B;
   background-color: #FFF;
@@ -480,167 +263,19 @@ ul.nav > li.active > a {
   text-align: left;
 }
 
-#block-9-i-Title {
-  font-family: 'ThasadithLight';
+#block-9-Title {
+  font-family: 'ThasadithRegular';
   font-size: 12pt;
   text-align: left;
   letter-spacing: 0px;
 }
 
-#block-9-i-Char {
-  font-family: 'ThasadithThinItalic';
-  font-size: 22pt;
-  line-height: 120%;
-  text-align: left;
-  letter-spacing: 3px;
-  padding-bottom: 15px;
-}
-
-#block-9-i-Num {
-  font-family: 'ThasadithThinItalic';
-  font-size: 22pt;
-  text-align: left;
-  line-height: 120%;
-  letter-spacing: 3px;
-  padding-bottom: 15px;
-}
-
-#block-9-i-Vowel {
-  font-family: 'ThasadithThinItalic';
-  line-height: 150%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-9-i-Sp-Char {
-  font-family: 'ThasadithThinItalic';
-  line-height: 150%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-9-i-Symbol {
-  font-family: 'ThasadithThinItalic';
-  line-height: 130%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-9-i-Ac-Char {
-  font-family: 'ThasadithThinItalic';
-  line-height: 130%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-9-i-Text1 {
-  font-family: 'ThasadithThinItalic';
-  line-height: 125%;
-  font-size: 12pt;
-  text-align: left;
-}
-
-#block-9-i-Text2 {
-  font-family: 'ThasadithThinItalic';
-  line-height: 125%;
-  font-size: 18pt;
-  text-align: left;
-}
-
-#block-9-i-Text3 {
-  font-family: 'ThasadithThinItalic';
-  line-height: 150%;
-  font-size: 24pt;
-  text-align: left;
-}
 
 #block-10 {
   color: #4B024B;
   background-color: #FFF;
   padding-top: 80px;
   padding-bottom: 50px;
-  text-align: left;
-}
-
-#block-10-Title {
-  font-family: 'ThasadithLight';
-  font-size: 12pt;
-  text-align: left;
-  letter-spacing: 0px;
-}
-
-#block-10-Char {
-  font-family: 'ThasadithExtraLight';
-  font-size: 22pt;
-  line-height: 120%;
-  text-align: left;
-  letter-spacing: 3px;
-  padding-bottom: 15px;
-}
-
-#block-10-Num {
-  font-family: 'ThasadithExtraLight';
-  font-size: 22pt;
-  text-align: left;
-  line-height: 120%;
-  letter-spacing: 3px;
-  padding-bottom: 15px;
-}
-
-#block-10-Vowel {
-  font-family: 'ThasadithExtraLight';
-  line-height: 150%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-10-Sp-Char {
-  font-family: 'ThasadithExtraLight';
-  line-height: 150%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-10-Symbol {
-  font-family: 'ThasadithExtraLight';
-  line-height: 130%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-10-Ac-Char {
-  font-family: 'ThasadithExtraLight';
-  line-height: 130%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-10-Text1 {
-  font-family: 'ThasadithExtraLight';
-  line-height: 125%;
-  font-size: 12pt;
-  text-align: left;
-}
-
-#block-10-Text2 {
-  font-family: 'ThasadithExtraLight';
-  line-height: 125%;
-  font-size: 18pt;
-  text-align: left;
-}
-
-#block-10-Text3 {
-  font-family: 'ThasadithExtraLight';
-  line-height: 150%;
-  font-size: 24pt;
   text-align: left;
 }
 
@@ -652,84 +287,6 @@ ul.nav > li.active > a {
   text-align: left;
 }
 
-#block-10-i-Title {
-  font-family: 'ThasadithLight';
-  font-size: 12pt;
-  text-align: left;
-  letter-spacing: 0px;
-}
-
-#block-10-i-Char {
-  font-family: 'ThasadithExtraLightItalic';
-  font-size: 22pt;
-  line-height: 120%;
-  text-align: left;
-  letter-spacing: 3px;
-  padding-bottom: 15px;
-}
-
-#block-10-i-Num {
-  font-family: 'ThasadithExtraLightItalic';
-  font-size: 22pt;
-  text-align: left;
-  line-height: 120%;
-  letter-spacing: 3px;
-  padding-bottom: 15px;
-}
-
-#block-10-i-Vowel {
-  font-family: 'ThasadithExtraLightItalic';
-  line-height: 150%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-10-i-Sp-Char {
-  font-family: 'ThasadithExtraLightItalic';
-  line-height: 150%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-10-i-Symbol {
-  font-family: 'ThasadithExtraLightItalic';
-  line-height: 130%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-10-i-Ac-Char {
-  font-family: 'ThasadithExtraLightItalic';
-  line-height: 130%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-10-i-Text1 {
-  font-family: 'ThasadithExtraLightItalic';
-  line-height: 125%;
-  font-size: 12pt;
-  text-align: left;
-}
-
-#block-10-i-Text2 {
-  font-family: 'ThasadithExtraLightItalic';
-  line-height: 125%;
-  font-size: 18pt;
-  text-align: left;
-}
-
-#block-10-i-Text3 {
-  font-family: 'ThasadithExtraLightItalic';
-  line-height: 150%;
-  font-size: 24pt;
-  text-align: left;
-}
-
 #block-11 {
   color: #4B024B;
   background-color: #FFF;
@@ -738,167 +295,11 @@ ul.nav > li.active > a {
   text-align: left;
 }
 
-#block-11-Title {
-  font-family: 'ThasadithLight';
-  font-size: 12pt;
-  text-align: left;
-  letter-spacing: 0px;
-}
-
-#block-11-Char {
-  font-family: 'ThasadithLight';
-  font-size: 22pt;
-  line-height: 120%;
-  text-align: left;
-  letter-spacing: 3px;
-  padding-bottom: 15px;
-}
-
-#block-11-Num {
-  font-family: 'ThasadithLight';
-  font-size: 22pt;
-  text-align: left;
-  line-height: 120%;
-  letter-spacing: 3px;
-  padding-bottom: 15px;
-}
-
-#block-11-Vowel {
-  font-family: 'ThasadithLight';
-  line-height: 150%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-11-Sp-Char {
-  font-family: 'ThasadithLight';
-  line-height: 150%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-11-Symbol {
-  font-family: 'ThasadithLight';
-  line-height: 130%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-11-Ac-Char {
-  font-family: 'ThasadithLight';
-  line-height: 130%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-11-Text1 {
-  font-family: 'ThasadithLight';
-  line-height: 125%;
-  font-size: 12pt;
-  text-align: left;
-}
-
-#block-11-Text2 {
-  font-family: 'ThasadithLight';
-  line-height: 125%;
-  font-size: 18pt;
-  text-align: left;
-}
-
-#block-11-Text3 {
-  font-family: 'ThasadithLight';
-  line-height: 150%;
-  font-size: 24pt;
-  text-align: left;
-}
-
 #block-11-i {
   color: #4B024B;
   background-color: #FFF;
   padding-top: 80px;
   padding-bottom: 50px;
-  text-align: left;
-}
-
-#block-11-i-Title {
-  font-family: 'ThasadithLight';
-  font-size: 12pt;
-  text-align: left;
-  letter-spacing: 0px;
-}
-
-#block-11-i-Char {
-  font-family: 'ThasadithLightItalic';
-  font-size: 22pt;
-  line-height: 120%;
-  text-align: left;
-  letter-spacing: 3px;
-  padding-bottom: 15px;
-}
-
-#block-11-i-Num {
-  font-family: 'ThasadithLightItalic';
-  font-size: 22pt;
-  text-align: left;
-  line-height: 120%;
-  letter-spacing: 3px;
-  padding-bottom: 15px;
-}
-
-#block-11-i-Vowel {
-  font-family: 'ThasadithLightItalic';
-  line-height: 150%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-11-i-Sp-Char {
-  font-family: 'ThasadithLightItalic';
-  line-height: 150%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-11-i-Symbol {
-  font-family: 'ThasadithLightItalic';
-  line-height: 130%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-11-i-Ac-Char {
-  font-family: 'ThasadithLightItalic';
-  line-height: 130%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-11-i-Text1 {
-  font-family: 'ThasadithLightItalic';
-  line-height: 125%;
-  font-size: 12pt;
-  text-align: left;
-}
-
-#block-11-i-Text2 {
-  font-family: 'ThasadithLightItalic';
-  line-height: 125%;
-  font-size: 18pt;
-  text-align: left;
-}
-
-#block-11-i-Text3 {
-  font-family: 'ThasadithLightItalic';
-  line-height: 150%;
-  font-size: 24pt;
   text-align: left;
 }
 
@@ -911,7 +312,7 @@ ul.nav > li.active > a {
 }
 
 #block-12-Title {
-  font-family: 'ThasadithLight';
+  font-family: 'ThasadithRegular';
   font-size: 12pt;
   text-align: left;
   letter-spacing: 0px;
@@ -997,7 +398,7 @@ ul.nav > li.active > a {
 }
 
 #block-12-i-Title {
-  font-family: 'ThasadithLight';
+  font-family: 'ThasadithRegular';
   font-size: 12pt;
   text-align: left;
   letter-spacing: 0px;
@@ -1082,167 +483,11 @@ ul.nav > li.active > a {
   text-align: left;
 }
 
-#block-13-Title {
-  font-family: 'ThasadithLight';
-  font-size: 12pt;
-  text-align: left;
-  letter-spacing: 0px;
-}
-
-#block-13-Char {
-  font-family: 'ThasadithMedium';
-  font-size: 22pt;
-  line-height: 120%;
-  text-align: left;
-  letter-spacing: 3px;
-  padding-bottom: 15px;
-}
-
-#block-13-Num {
-  font-family: 'ThasadithMedium';
-  font-size: 22pt;
-  text-align: left;
-  line-height: 120%;
-  letter-spacing: 3px;
-  padding-bottom: 15px;
-}
-
-#block-13-Vowel {
-  font-family: 'ThasadithMedium';
-  line-height: 150%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-13-Sp-Char {
-  font-family: 'ThasadithMedium';
-  line-height: 150%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-13-Symbol {
-  font-family: 'ThasadithMedium';
-  line-height: 130%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-13-Ac-Char {
-  font-family: 'ThasadithMedium';
-  line-height: 130%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-13-Text1 {
-  font-family: 'ThasadithMedium';
-  line-height: 125%;
-  font-size: 12pt;
-  text-align: left;
-}
-
-#block-13-Text2 {
-  font-family: 'ThasadithMedium';
-  line-height: 125%;
-  font-size: 18pt;
-  text-align: left;
-}
-
-#block-13-Text3 {
-  font-family: 'ThasadithMedium';
-  line-height: 150%;
-  font-size: 24pt;
-  text-align: left;
-}
-
 #block-13-i {
   color: #4B024B;
   background-color: #FFF;
   padding-top: 80px;
   padding-bottom: 50px;
-  text-align: left;
-}
-
-#block-13-i-Title {
-  font-family: 'ThasadithLight';
-  font-size: 12pt;
-  text-align: left;
-  letter-spacing: 0px;
-}
-
-#block-13-i-Char {
-  font-family: 'ThasadithMediumItalic';
-  font-size: 22pt;
-  line-height: 120%;
-  text-align: left;
-  letter-spacing: 3px;
-  padding-bottom: 15px;
-}
-
-#block-13-i-Num {
-  font-family: 'ThasadithMediumItalic';
-  font-size: 22pt;
-  text-align: left;
-  line-height: 120%;
-  letter-spacing: 3px;
-  padding-bottom: 15px;
-}
-
-#block-13-i-Vowel {
-  font-family: 'ThasadithMediumItalic';
-  line-height: 150%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-13-i-Sp-Char {
-  font-family: 'ThasadithMediumItalic';
-  line-height: 150%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-13-i-Symbol {
-  font-family: 'ThasadithMediumItalic';
-  line-height: 130%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-13-i-Ac-Char {
-  font-family: 'ThasadithMediumItalic';
-  line-height: 130%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-13-i-Text1 {
-  font-family: 'ThasadithMediumItalic';
-  line-height: 125%;
-  font-size: 12pt;
-  text-align: left;
-}
-
-#block-13-i-Text2 {
-  font-family: 'ThasadithMediumItalic';
-  line-height: 125%;
-  font-size: 18pt;
-  text-align: left;
-}
-
-#block-13-i-Text3 {
-  font-family: 'ThasadithMediumItalic';
-  line-height: 150%;
-  font-size: 24pt;
   text-align: left;
 }
 
@@ -1254,84 +499,6 @@ ul.nav > li.active > a {
   text-align: left;
 }
 
-#block-14-Title {
-  font-family: 'ThasadithLight';
-  font-size: 12pt;
-  text-align: left;
-  letter-spacing: 0px;
-}
-
-#block-14-Char {
-  font-family: 'ThasadithSemiBold';
-  font-size: 22pt;
-  line-height: 120%;
-  text-align: left;
-  letter-spacing: 3px;
-  padding-bottom: 15px;
-}
-
-#block-14-Num {
-  font-family: 'ThasadithSemiBold';
-  font-size: 22pt;
-  text-align: left;
-  line-height: 120%;
-  letter-spacing: 3px;
-  padding-bottom: 15px;
-}
-
-#block-14-Vowel {
-  font-family: 'ThasadithSemiBold';
-  line-height: 150%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-14-Sp-Char {
-  font-family: 'ThasadithSemiBold';
-  line-height: 150%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-14-Symbol {
-  font-family: 'ThasadithSemiBold';
-  line-height: 130%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-14-Ac-Char {
-  font-family: 'ThasadithSemiBold';
-  line-height: 130%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-14-Text1 {
-  font-family: 'ThasadithSemiBold';
-  line-height: 125%;
-  font-size: 12pt;
-  text-align: left;
-}
-
-#block-14-Text2 {
-  font-family: 'ThasadithSemiBold';
-  line-height: 125%;
-  font-size: 18pt;
-  text-align: left;
-}
-
-#block-14-Text3 {
-  font-family: 'ThasadithSemiBold';
-  line-height: 150%;
-  font-size: 24pt;
-  text-align: left;
-}
-
 #block-14-i {
   color: #4B024B;
   background-color: #FFF;
@@ -1339,85 +506,6 @@ ul.nav > li.active > a {
   padding-bottom: 50px;
   text-align: left;
 }
-
-#block-14-i-Title {
-  font-family: 'ThasadithLight';
-  font-size: 12pt;
-  text-align: left;
-  letter-spacing: 0px;
-}
-
-#block-14-i-Char {
-  font-family: 'ThasadithSemiBoldItalic';
-  font-size: 22pt;
-  line-height: 120%;
-  text-align: left;
-  letter-spacing: 3px;
-  padding-bottom: 15px;
-}
-
-#block-14-i-Num {
-  font-family: 'ThasadithSemiBoldItalic';
-  font-size: 22pt;
-  text-align: left;
-  line-height: 120%;
-  letter-spacing: 3px;
-  padding-bottom: 15px;
-}
-
-#block-14-i-Vowel {
-  font-family: 'ThasadithSemiBoldItalic';
-  line-height: 150%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-14-i-Sp-Char {
-  font-family: 'ThasadithSemiBoldItalic';
-  line-height: 150%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-14-i-Symbol {
-  font-family: 'ThasadithSemiBoldItalic';
-  line-height: 130%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-14-i-Ac-Char {
-  font-family: 'ThasadithSemiBoldItalic';
-  line-height: 130%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-14-i-Text1 {
-  font-family: 'ThasadithSemiBoldItalic';
-  line-height: 125%;
-  font-size: 12pt;
-  text-align: left;
-}
-
-#block-14-i-Text2 {
-  font-family: 'ThasadithSemiBoldItalic';
-  line-height: 125%;
-  font-size: 18pt;
-  text-align: left;
-}
-
-#block-14-i-Text3 {
-  font-family: 'ThasadithSemiBoldItalic';
-  line-height: 150%;
-  font-size: 24pt;
-  text-align: left;
-}
-
 
 #block-15 {
   color: #4B024B;
@@ -1599,167 +687,11 @@ ul.nav > li.active > a {
   text-align: left;
 }
 
-#block-16-Title {
-  font-family: 'ThasadithLight';
-  font-size: 12pt;
-  text-align: left;
-  letter-spacing: 0px;
-}
-
-#block-16-Char {
-  font-family: 'ThasadithExtraBold';
-  font-size: 22pt;
-  line-height: 120%;
-  text-align: left;
-  letter-spacing: 3px;
-  padding-bottom: 15px;
-}
-
-#block-16-Num {
-  font-family: 'ThasadithExtraBold';
-  font-size: 22pt;
-  text-align: left;
-  line-height: 120%;
-  letter-spacing: 3px;
-  padding-bottom: 15px;
-}
-
-#block-16-Vowel {
-  font-family: 'ThasadithExtraBold';
-  line-height: 150%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-16-Sp-Char {
-  font-family: 'ThasadithExtraBold';
-  line-height: 150%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-16-Symbol {
-  font-family: 'ThasadithExtraBold';
-  line-height: 130%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-16-Ac-Char {
-  font-family: 'ThasadithExtraBold';
-  line-height: 130%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-16-Text1 {
-  font-family: 'ThasadithExtraBold';
-  line-height: 125%;
-  font-size: 12pt;
-  text-align: left;
-}
-
-#block-16-Text2 {
-  font-family: 'ThasadithExtraBold';
-  line-height: 125%;
-  font-size: 18pt;
-  text-align: left;
-}
-
-#block-16-Text3 {
-  font-family: 'ThasadithExtraBold';
-  line-height: 150%;
-  font-size: 24pt;
-  text-align: left;
-}
-
 #block-16-i {
   color: #4B024B;
   background-color: #FFF;
   padding-top: 80px;
   padding-bottom: 50px;
-  text-align: left;
-}
-
-#block-16-i-Title {
-  font-family: 'ThasadithLight';
-  font-size: 12pt;
-  text-align: left;
-  letter-spacing: 0px;
-}
-
-#block-16-i-Char {
-  font-family: 'ThasadithExtraBoldItalic';
-  font-size: 22pt;
-  line-height: 120%;
-  text-align: left;
-  letter-spacing: 3px;
-  padding-bottom: 15px;
-}
-
-#block-16-i-Num {
-  font-family: 'ThasadithExtraBoldItalic';
-  font-size: 22pt;
-  text-align: left;
-  line-height: 120%;
-  letter-spacing: 3px;
-  padding-bottom: 15px;
-}
-
-#block-16-i-Vowel {
-  font-family: 'ThasadithExtraBoldItalic';
-  line-height: 150%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-16-i-Sp-Char {
-  font-family: 'ThasadithExtraBoldItalic';
-  line-height: 150%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-16-i-Symbol {
-  font-family: 'ThasadithExtraBoldItalic';
-  line-height: 130%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-16-i-Ac-Char {
-  font-family: 'ThasadithExtraBoldItalic';
-  line-height: 130%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-16-i-Text1 {
-  font-family: 'ThasadithExtraBoldItalic';
-  line-height: 125%;
-  font-size: 12pt;
-  text-align: left;
-}
-
-#block-16-i-Text2 {
-  font-family: 'ThasadithExtraBoldItalic';
-  line-height: 125%;
-  font-size: 18pt;
-  text-align: left;
-}
-
-#block-16-i-Text3 {
-  font-family: 'ThasadithExtraBoldItalic';
-  line-height: 150%;
-  font-size: 24pt;
   text-align: left;
 }
 
@@ -1771,167 +703,11 @@ ul.nav > li.active > a {
   text-align: left;
 }
 
-#block-17-Title {
-  font-family: 'ThasadithLight';
-  font-size: 12pt;
-  text-align: left;
-  letter-spacing: 0px;
-}
-
-#block-17-Char {
-  font-family: 'ThasadithBlack';
-  font-size: 22pt;
-  line-height: 120%;
-  text-align: left;
-  letter-spacing: 3px;
-  padding-bottom: 15px;
-}
-
-#block-17-Num {
-  font-family: 'ThasadithBlack';
-  font-size: 22pt;
-  text-align: left;
-  line-height: 120%;
-  letter-spacing: 3px;
-  padding-bottom: 15px;
-}
-
-#block-17-Vowel {
-  font-family: 'ThasadithBlack';
-  line-height: 150%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-17-Sp-Char {
-  font-family: 'ThasadithBlack';
-  line-height: 150%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-17-Symbol {
-  font-family: 'ThasadithBlack';
-  line-height: 130%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-17-Ac-Char {
-  font-family: 'ThasadithBlack';
-  line-height: 130%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-17-Text1 {
-  font-family: 'ThasadithBlack';
-  line-height: 125%;
-  font-size: 12pt;
-  text-align: left;
-}
-
-#block-17-Text2 {
-  font-family: 'ThasadithBlack';
-  line-height: 125%;
-  font-size: 18pt;
-  text-align: left;
-}
-
-#block-17-Text3 {
-  font-family: 'ThasadithBlack';
-  line-height: 150%;
-  font-size: 24pt;
-  text-align: left;
-}
-
 #block-17-i {
   color: #4B024B;
   background-color: #FFF;
   padding-top: 80px;
   padding-bottom: 50px;
-  text-align: left;
-}
-
-#block-17-i-Title {
-  font-family: 'ThasadithLight';
-  font-size: 12pt;
-  text-align: left;
-  letter-spacing: 0px;
-}
-
-#block-17-i-Char {
-  font-family: 'ThasadithBlackItalic';
-  font-size: 22pt;
-  line-height: 120%;
-  text-align: left;
-  letter-spacing: 3px;
-  padding-bottom: 15px;
-}
-
-#block-17-i-Num {
-  font-family: 'ThasadithBlackItalic';
-  font-size: 22pt;
-  text-align: left;
-  line-height: 120%;
-  letter-spacing: 3px;
-  padding-bottom: 15px;
-}
-
-#block-17-i-Vowel {
-  font-family: 'ThasadithBlackItalic';
-  line-height: 150%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-17-i-Sp-Char {
-  font-family: 'ThasadithBlackItalic';
-  line-height: 150%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-17-i-Symbol {
-  font-family: 'ThasadithBlackItalic';
-  line-height: 130%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-17-i-Ac-Char {
-  font-family: 'ThasadithBlackItalic';
-  line-height: 130%;
-  font-size: 22pt;
-  text-align: left;
-  padding-bottom: 15px;
-}
-
-#block-17-i-Text1 {
-  font-family: 'ThasadithBlackItalic';
-  line-height: 125%;
-  font-size: 12pt;
-  text-align: left;
-}
-
-#block-17-i-Text2 {
-  font-family: 'ThasadithBlackItalic';
-  line-height: 125%;
-  font-size: 18pt;
-  text-align: left;
-}
-
-#block-17-i-Text3 {
-  font-family: 'ThasadithBlackItalic';
-  line-height: 150%;
-  font-size: 24pt;
   text-align: left;
 }
 
