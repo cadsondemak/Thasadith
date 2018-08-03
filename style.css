@@ -3,6 +3,8 @@
     src: url('./fonts/Thasadith-Italic.eot');
     src: url('./fonts/Thasadith-Italic.eot?#iefix') format('embedded-opentype'),
          url('./fonts/Thasadith-Italic.woff2') format('woff2'),
+         url('./fonts/Thasadith-Italic.woff') format('woff'),
+         url('./fonts/Thasadith-Italic.ttf') format('truetype');
 }
 
 @font-face {
@@ -10,6 +12,8 @@
     src: url('./fonts/Thasadith-BoldItalic.eot');
     src: url('./fonts/Thasadith-BoldItalic.eot?#iefix') format('embedded-opentype'),
          url('./fonts/Thasadith-BoldItalic.woff2') format('woff2'),
+         url('./fonts/Thasadith-BoldItalic.woff') format('woff'),
+         url('./fonts/Thasadith-BoldItalic.ttf') format('truetype');
 }
 
 @font-face {
@@ -17,6 +21,8 @@
     src: url('./fonts/Thasadith-Regular.eot');
     src: url('./fonts/Thasadith-Regular.eot?#iefix') format('embedded-opentype'),
          url('./fonts/Thasadith-Regular.woff2') format('woff2'),
+         url('./fonts/Thasadith-Regular.woff') format('woff'),
+         url('./fonts/Thasadith-Regular.ttf') format('truetype');
 }
 
 @font-face {
@@ -24,6 +30,8 @@
     src: url('./fonts/Thasadith-Bold.eot');
     src: url('./fonts/Thasadith-Bold.eot?#iefix') format('embedded-opentype'),
          url('./fonts/Thasadith-Bold.woff2') format('woff2'),
+         url('./fonts/Thasadith-Bold.woff') format('woff'),
+         url('./fonts/Thasadith-Bold.ttf') format('truetype');
 }
 
 #block-1 {
